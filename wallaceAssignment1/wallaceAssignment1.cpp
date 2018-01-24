@@ -56,7 +56,8 @@ int main()
 				//Default case to make sure player enters a valid selection and if not it spits it back at them
 
 
-			//Test - Why CAN'T I PUSH THIS TO GITHUBBBBBB
+			//Test - Why CAN'T I PUSH THIS TO GITHUBBBBBB - Okay I got it to push to github :') If you see this then just know I was a bit crazy
+			//from sleep deprivation trying to get this to work 
 }
 
 //Play Game function
